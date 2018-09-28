@@ -1,0 +1,11 @@
+sudo apt-get install 
+sudo apt-get update
+mkdir
+rm
+push
+cd
+cd ../
+git clone 
+git.username
+git.password
+
